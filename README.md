@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Daniel120116
+- [![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel120116)](https://github.com/anuraghazra/github-readme-stats)
+- 
 - 👀 I’m interested in programming ...
 - 🌱 I’m currently learning C++ ...
 - 💞️ I’m looking to collaborate on .
